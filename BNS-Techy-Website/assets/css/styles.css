@@ -630,6 +630,10 @@ body.dark-theme {
   color: var(--text-color);
 }
 
+.main{
+  background-color: #1A1A1A;
+}
+
 /*=============== SCROLL UP ===============*/
 .scrollup {
   position: fixed;
